@@ -9,12 +9,12 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.partenaires %}
+                {% for partenaires in site.partenaires %}
                     <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal-{{ partenaires.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ partenaires.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}
