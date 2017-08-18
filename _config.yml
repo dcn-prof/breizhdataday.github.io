@@ -1,0 +1,59 @@
+# Site settings
+title: Breizh Data Day
+email: contact@colinfay.me
+url: http://breizhdataday.github.io/
+description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
+keywords: "breizh, data, data science, open data"
+skills: "19 Octobre 2017"
+meta_author: LastName FirstName
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 653696 #80B3FF
+  primary-rgb: "101,54,150" #"128,179,255"
+  secondary: 648bac #FD6E8A
+  secondary-dark: 83d1bf #A2122F
+
+# Footer settings
+footer:
+  copyright: Breizh Data Club
+  location: Contactez-nous
+  social: Sur le web
+  credits: Crédits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/breizhdataday
+  - title: github
+    url: https://github.com/breizhdataday
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Association Breizh Data Club
+  - line: French Tech
+  - line: 2 rue de la Mabilais
+  - line: 35000 RENNES
+
+# Credits content
+credits: 'Créé avec Jekyll et le thème Freelancer.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
