@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2017-10-19
-img: confirme.png
+img: michel-caradec.png
 alt: image-alt
 project-date: 19 octobre 2017
-client: À confirmer
-category: À confirmer
-description: À confirmer
+client: Michel Caradec
+category: Datajournalisme
+description: Les Panama Papers. 
 description-longue : Plus d'infos bientôt. 
 ---
