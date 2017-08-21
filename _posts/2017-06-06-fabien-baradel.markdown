@@ -5,8 +5,8 @@ date: 2017-10-19
 img: fabien-baradel.png
 alt: image-alt
 project-date: 19 octobre 2017
-client: Fabien Baradel 
+client: Fabien <br>Baradel 
 category: Deep Learning
-description: Deep learning for video understanding.
+description: Deep learning for video understanding.<br>
 description-longue : Plus d'infos bientôt. 
 ---

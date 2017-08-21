@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 19 octobre 2017
 client: François <br>Paulus
 category: À définir
-description: Plus d'infos <br>prochainement. 
+description: Plus d'infos <br>prochainement. <br>
 description-longue : Plus d'infos prochainement. 
 ---
