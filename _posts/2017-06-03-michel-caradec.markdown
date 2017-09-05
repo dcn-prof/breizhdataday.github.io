@@ -8,6 +8,6 @@ project-date: 19 octobre 2017
 client: Michel <br>Caradec
 category: Datajournalisme
 description: Les Panama Papers. 
-description-longue : OpenStreetMap est une base de données géographiques mondiale, sous licence libre. C'est l'équivalent cartographique de Wikipédia. Découvrez cette source riche d'informations, comment l'utiliser et participer, et surtout comment extraire des données thématiques pour vos usages avec le système Overpass.
+description-longue : Révélée au grand public en avril 2016, l'affaire des Panama Papers, mettant en en évidence un dispositif de sociétés offshore, se distingue à plus d'un titre, que ce soit sur le plan de ses répercutions ou sur ce qui a permis de la faire émerger : la fuite de données massives, impliquant de relever de nouveaux défis en termes de journalisme de données.
 ---
 
