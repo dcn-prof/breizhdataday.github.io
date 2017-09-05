@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2017-10-19
-img: confirme.png
+img: francois-paulus.png
 alt: image-alt
 project-date: 19 octobre 2017
 client: François <br>Paulus
