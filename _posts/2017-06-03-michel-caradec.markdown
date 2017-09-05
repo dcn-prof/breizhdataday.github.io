@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 19 octobre 2017
 client: Michel <br>Caradec
 category: Datajournalisme
-description: Panama Papers : Investigation et Big Data
-description-longue :Révélée au grand public en avril 2016, l'affaire des Panama Papers se distingue à plus d'un titre, que ce soit sur le plan de ses répercutions ou sur ce qui a permis de la faire émerger : la fuite de données massives, impliquant de relever de nouveaux défis en termes de journalisme de données. 
+description: Panama Papers : Investigation et Big Data.
+description-longue : En partant d'un cas concret, Michel Caradec, responsable technique chez Cegid et contributeur sur la plateforme Data BZH vous propose de détailler les éléments de l'affaire du point de vue de la donnée. . 
 ---
