@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 19 octobre 2017
 client: Michel <br>Caradec
 category: Datajournalisme
-description: Les Panama Papers. 
+description: Panama Papers, investigation et Big Data. 
 description-longue : Plus d'infos bientôt. 
 ---
