@@ -8,5 +8,5 @@ project-date: 19 octobre 2017
 client: Michel <br>Caradec
 category: Datajournalisme
 description: Panama Papers : Investigation et Big Data.
-description-longue : En partant d'un cas concret, Michel Caradec, responsable technique chez Cegid et contributeur sur la plateforme Data BZH vous propose de détailler les éléments de l'affaire du point de vue de la donnée.
+description-longue : Plus d'infos à venir.
 ---
