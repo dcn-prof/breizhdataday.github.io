@@ -8,7 +8,6 @@ project-date: 19 octobre 2017
 client: Vincent <br>Lastennet
 category: Datajournalisme
 description: Le datajournalisme chez Dataspot
-<<<<<<< HEAD
 description-longue : Présentation de Dataspot. Presque deux ans d'existence, plus d'une centaine d'articles, quelques prix et beaucoup d'enseignements.
 <br>Une petite révolution. Travail en mode projet mêlant plusieurs services (développement, marketing, graphisme, éditorial).
 <br>Nouveaux formats . De l'info-service, à l'investigation en passant par les jeux, la compétence data se retrouve aujourd'hui dans tous les nouveaux formats du Télégramme.
