@@ -4,7 +4,7 @@ email: contact@colinfay.me
 url: http://breizhdataday.github.io/
 description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
 keywords: "breizh, data, data science, open data"
-skills: "19 Octobre 2017"
+skills: "19 Octobre 2018"
 entree: "Entrée gratuite"
 meta_author: LastName FirstName
 
@@ -26,10 +26,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 653696 #80B3FF
-  primary-rgb: "101,54,150" #"128,179,255"
-  secondary: 648bac #FD6E8A
-  secondary-dark: 83d1bf #A2122F
+  primary: 2C1E2F #80B3FF
+  primary-rgb: "44,30,47" #"128,179,255"
+  secondary: E8403E #FD6E8A
+  secondary-dark: D03259 #A2122F
 
 # Footer settings
 footer:
@@ -58,3 +58,6 @@ credits: 'Créé avec Jekyll et le thème Freelancer.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+collections:
+  - workshop
+  - conf
