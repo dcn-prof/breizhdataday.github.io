@@ -4,9 +4,10 @@ email: contact@colinfay.me
 url: http://breizhdataday.github.io/
 description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
 keywords: "breizh, data, data science, open data"
-skills: "19 Octobre 2018"
+date: "19 Octobre 2018 - CCI Ille et Vilaine"
 entree: "Entrée gratuite"
 meta_author: LastName FirstName
+baseline: "Un événement du Breizh Data Club"
 
 # Google webmaster tools
 google_verify:
@@ -61,3 +62,5 @@ permalink: pretty
 collections:
   - workshop
   - conf
+  - orga
+  - sponsors
