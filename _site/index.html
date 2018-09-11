@@ -58,6 +58,9 @@
                         <a href="#about">À propos</a>
                     </li>
                     <li class="page-scroll">
+                        <a href="#lieu">Lieu</a>
+                    </li>
+                    <li class="page-scroll">
                         <a href="#programme">Programme</a>
                     </li>
                     <li class="page-scroll">
@@ -123,7 +126,7 @@
     </section>
     
     <!-- Portfolio Grid Section -->
-    <section id="intervenants">
+    <section id="lieu">
       
         <div class="container">
           
@@ -238,7 +241,7 @@
                                 <div class="caption-content">
                                   <p>&nbsp;</p>
                                   <h3 align = "center">Andrew </br>B. Collier</h3>
-                                  <h4 align = "center">Exegetic Analytics</h3>
+                                  <h4 align = "center">Principal Consultant @ Exegetic Analytics</h3>
                                   
                                 </div>
                             </div>
@@ -249,6 +252,33 @@
                               <p>Catégorie : Workshop</p>
                             </div>
                         <!--</a>-->
+                        <!-- Trigger the modal with a button -->,
+                        <div align = "center">
+                        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modalwk-1" style = "background-color: #271c29;">Plus d'infos</button>
+                        </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="modalwk-1" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">A Gentle Introduction to Spark</h4>
+        </div>
+        <div class="modal-body">
+          <h3 align = "center">Andrew </br>B. Collier</h3>
+          <h4 align = "center">Principal Consultant @ Exegetic Analytics</h3>
+          <p><br><b>This Workshop will be in english.</b></b><br><b>Spark, A Gentle Introduction</b> <p>Spark is a cluster-computing framework for processing large volumes of data. In this talk I will give a broad introduction to Spark, covering the following core topics <li>Spark versus MapReduce;</li><li>RDDs, DataFrames and Datasets;</li><li>Installation and setup;</li><li>access from Python;</li><li>using the Machine Learning Library.</li><p>I won't promise to make you an expert, but I'll be sharing tips and resources which will help you get started.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
                     </div>
                 
             </div>
@@ -392,7 +422,7 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
+                    <div class="footer-col col-md-4" id = "contact" >
                         <h3>Contactez-nous</h3>
                         <p>
                             
