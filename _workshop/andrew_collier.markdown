@@ -5,7 +5,7 @@ date: 2018-10-19
 img: andrew-collier.jpg
 alt: image-alt
 project-date: 19 octobre 2018
-client: Andrew </br>B. Collier
+qui: Andrew B. Collier
 boite: Exegetic Analytics
 position: Principal Consultant 
 category: Workshop
