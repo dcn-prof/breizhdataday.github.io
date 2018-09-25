@@ -9,6 +9,7 @@ qui: Audrey Sarrazin - Romuald Detrue - Bruno Lasnier
 boite: SNCF
 position: Équipe Data
 category: Conférence
-description: Télédiagnostic et Maintenance prédictive
-description-longue : À venir
+description: Télédiagnostic du matériel roulant 
+description-longue : En plein boum du digital, le matériel roulant utilisé par la SNCF se modernise et devient communiquant. Depuis quelques années, les équipes s’organisent et de nouveaux métiers se créent afin d’affiner le suivi des flottes et d’optimiser la maintenance du matériel.
+
 ---
