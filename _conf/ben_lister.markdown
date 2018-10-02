@@ -5,7 +5,7 @@ date: 2018-10-19
 img: ben_lister.jpg
 alt: ben_lister
 project-date: 19 octobre 2018
-qui: Ben Lister
+qui: Ben Lister<br><br>
 boite: Ville de Rennes/Rennes Métropole
 position: Chargé de mission Open Data
 category: Open Data

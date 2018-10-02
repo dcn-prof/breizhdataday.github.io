@@ -6,7 +6,7 @@ img: emmanuel-keita.jpg
 alt: image-alt
 project-date: 19 octobre 2018
 qui: Emmanuel Keita
-boite: SUNDiATA
+boite: SUNDiATA<br>
 position: CEO 
 category: Workshop
 description: Réseaux Bayésien (TBC)

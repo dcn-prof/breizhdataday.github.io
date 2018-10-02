@@ -6,7 +6,7 @@ img: andrew-collier.jpg
 alt: image-alt
 project-date: 19 octobre 2018
 qui: Andrew B. Collier
-boite: Exegetic Analytics
+boite: Exegetic Analytics<br>
 position: Principal Consultant 
 category: Workshop
 description: A Gentle Introduction to Bayesian Methods with Python

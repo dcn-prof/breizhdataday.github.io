@@ -5,7 +5,7 @@ date: 2018-10-19
 img: olivier_douillard.jpg
 alt: olivier_douillard
 qui: Olivier Douillard
-boite: AIM45
+boite: AIM45<br>
 position: Ingénieur/Navigateur
 category: Conférence
 description: Explosion de données pour la course au large !

@@ -5,7 +5,7 @@ date: 2018-10-19
 img: audrey_sarrazin.jpg
 alt: audrey_sarrazin_scnf
 project-date: 19 octobre 2018
-qui: Audrey Sarrazin - Romuald Detrue - Bruno Lasnier
+qui: A. Sarrazin - R. Detrue - B. Lasnier
 boite: SNCF
 position: Équipe Data
 category: Conférence
