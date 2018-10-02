@@ -13,7 +13,7 @@
             
             <div class="row">
               {% for post in site.sponsors %}
-              <div class="col-sm-4 portfolio-item">
+              <div class="col-sm-3 portfolio-item">
                         <a href="{{post.href}}">
                             <div class="caption">
                                 <div class="caption-content">
@@ -21,12 +21,10 @@
                                   <h3 align = "center">{{ post.qui }}</h2>
                                 </div>
                             </div>
-                           <img src="img/partenaires/{{ post.img }}" class="img-responsive">
+                            <div align ="center"><img src="img/partenaires/{{ post.img }}" class="img-responsive" width = "200px"  width = "2em"></div>
                         </a>
                         </div>
                 {% endfor %}
-                
-
 
                     </div>
         
