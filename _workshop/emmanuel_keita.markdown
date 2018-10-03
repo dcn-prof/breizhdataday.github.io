@@ -9,6 +9,6 @@ qui: Emmanuel Keita
 boite: SUNDiATA<br>
 position: CEO 
 category: Workshop
-description: Réseaux Bayésien (TBC)
+description: Introduction à l'IA avec les réseaux bayésiens
 description-longue : TBA
 ---

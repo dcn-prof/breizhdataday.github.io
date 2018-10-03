@@ -8,6 +8,6 @@ qui: Benoit Ravel
 boite: DataStorm<br>
 position: CEO
 category: Conférence
-description: Deep Learning, use case avec Engie
+description: Deep Learning, use case dans le secteur de l'énergie
 description-longue : TBA
 ---
