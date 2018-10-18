@@ -9,6 +9,6 @@ qui: Mathieu Prevel
 boite: Actility
 position: Team Manager <br> R&D Leader  
 category: Workshop
-description: Python vs Scala, quel langage pour quel usage ?
+description: Data. Python VS Scala
 description-longue : À venir...
 ---
