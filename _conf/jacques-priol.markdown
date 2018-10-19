@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 6
 date: 2018-10-19
 img: jacques_priol.jpg
 alt: jacques_priol
