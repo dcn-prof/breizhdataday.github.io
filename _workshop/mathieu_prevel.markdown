@@ -7,7 +7,7 @@ alt: image-alt
 project-date: 19 octobre 2018
 qui: Mathieu Prevel
 boite: Actility
-position: Team Manager <br> R&D Leader  
+position: Team Manager <br> R&D Engineer  
 category: Workshop
 description: Data. Python VS Scala
 description-longue : À venir...
