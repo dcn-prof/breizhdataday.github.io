@@ -42,7 +42,7 @@ description-longue : TBA
 + alt : prenom-nom du speaker
 + qui : prenom et nom en toutes lettres
 + boite : société 
-+ position : poste occupé (laissez le <br>)
++ position : poste occupé (laissez le `<br>`)
 + category : Workshop ou Conférence (correspond à tech ou grand public)
 + description : descritpion courte de la conf
 + description-longue : description longue de la conf 
