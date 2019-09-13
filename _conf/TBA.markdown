@@ -1,14 +1,14 @@
 ---
 layout: default
-modal-id: tba
+modal-id: sylvainbarthelemy
 date: 2019-11-07
-img: TBA.png
-alt: TBA
+img: SylvainBarthelemy.png
+alt: sylvain-barthelemy
 project-date: 07
-qui: TBA
-boite: TBA
-position: TBA<br>
-category: Workshop
-description: TBA.
-description-longue : TBA
+qui: Sylvain Barthelemy
+boite: TAC Economics
+position: Directeur<br>
+category: Conférence
+description: TEst
+description-longue : Test2
 ---
