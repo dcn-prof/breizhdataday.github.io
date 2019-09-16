@@ -2,7 +2,7 @@
 layout: default
 modal-id: sebastienlousteau
 date: 2019-11-07
-img: sebastienlousteau.png
+img: sebastienlousteau.jpg
 alt: sebastien-lousteau
 project-date: 07 novembre 2019
 qui: Sebastien Lousteau
