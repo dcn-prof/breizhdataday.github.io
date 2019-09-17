@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: sebastienlousteau
+modal-id: sebastienloustau
 date: 2019-11-07
 img: sebastienlousteau.png
-alt: sebastien-lousteau
+alt: sebastien-loustau
 project-date: 07 novembre 2019
-qui: Sebastien Lousteau
+qui: Sebastien Loustau
 boite: LumenAI
 position: Chercheur en Machine Learning<br>
 category: workshop
