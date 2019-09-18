@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: fabienhupelludoviclegrand
+modal-id: fabienhupel
 date: 2019-11-07
 img: LegrandHupel.png
-alt: fabienhupel-ludoviclegrand
+alt: fabien-hupel
 project-date: 07 novembre 2019
 qui: Fabien Hupel et Ludovic Legrand
 boite: Groupama Loire Bretagne
