@@ -8,7 +8,7 @@ project-date: 07 novembre 2019
 qui: Fabien Hupel et Ludovic Legrand
 boite: Groupama Loire Bretagne
 position: Chargés d'études Data<br>
-category: workshop
+category: Workshop
 description: L'IA pour améliorer la satisfaction client, 
 Utiliser le Machine Learning pour prédire le nombre d'appels sinistres
 description-longue : A partir de l'historique de nos données internes (sinistres et appels reçus) et des prévisions météorologiques des prochains jours,  
