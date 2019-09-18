@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: legrandhupel
+modal-id: fabienhupelludoviclegrand
 date: 2019-11-07
 img: LegrandHupel.png
 alt: fabienhupel-ludoviclegrand
