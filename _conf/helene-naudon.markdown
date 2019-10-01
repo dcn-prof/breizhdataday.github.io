@@ -2,7 +2,7 @@
 layout: default
 modal-id: helenenaudon
 date: 2019-11-07
-img: Naudon.png
+img: Naudon.PNG
 alt: helene-naudon
 project-date: 07 novembre 2019
 qui: Helene Naudon
