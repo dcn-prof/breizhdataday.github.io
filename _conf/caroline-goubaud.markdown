@@ -2,7 +2,7 @@
 layout: default
 modal-id: carolinegoubaud
 date: 2019-11-07
-img: CarolineGoubaud.jpg
+img: CarolineGoubaud.JPG
 alt: caroline-goubaud
 project-date: 07 novembre 2019
 qui: Caroline Goubaud
