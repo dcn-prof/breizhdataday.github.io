@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: fabienhupel
+modal-id: fabienhupelludoviclegrand
 date: 2019-11-07
-img: LegrandHupel.png
-alt: fabien-hupel
+img: LegrandHupel1.jpg
+alt: fabienhupel-ludoviclegrand
 project-date: 07 novembre 2019
-qui: Fabien Hupel
+qui: Fabien Hupel et Ludovic legrand
 boite: Groupama Loire Bretagne
 position: Chargés d'études Data<br>
 category: Workshop
