@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ESC.jpg
-alt: Rennes School of Business
+alt: ESC Rennes
 href: https://www.rennes-sb.fr/
-qui: Rennes School of Business
+qui: ESC Rennes
 ---
