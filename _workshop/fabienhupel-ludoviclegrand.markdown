@@ -2,7 +2,7 @@
 layout: default
 modal-id: fabienhupelludoviclegrand
 date: 2019-11-07
-img: LegrandHupel1.jpg
+img: HupelLegrand1.jpg
 alt: fabienhupel-ludoviclegrand
 project-date: 07 novembre 2019
 qui: Fabien Hupel et Ludovic legrand
