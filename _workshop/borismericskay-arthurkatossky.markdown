@@ -2,7 +2,7 @@
 layout: default
 modal-id: borismericskayarthurkatossky
 date: 2019-11-07
-img: Nucleaire.png
+img: Nucleaire.PNG
 alt: borismericskay-arthurkatossky
 project-date: 07 novembre 2019
 qui: Boris Mericskay et Arthur Katossky
