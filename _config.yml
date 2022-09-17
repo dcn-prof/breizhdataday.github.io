@@ -1,13 +1,13 @@
 # Site settings
 title: Breizh Data Day
-email: contact@colinfay.me
+email: sophie.tardivel@doptim.eu
 url: http://breizhdataday.github.io/
-description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
-keywords: "breizh, data, data science, open data"
-date: "07 Novembre 2019 - Rennes School of  Business"
+description: "Breizh Data Day, la conférence de Bretagne pour les amoureux de la donnée !"
+keywords: "breizh, bretagne, intelligence artificielle, data, data science, open data"
+date: "17 Septembre 2022 - Ploufragan en Côtes d'Armor"
 entree: "Entrée gratuite"
-meta_author: LastName FirstName
-baseline: "Un événement du Breizh Data Club"
+meta_author: Sophie TARDIVEL
+baseline: "Un événement de la French Tech Saint-Brieuc Bay"
 
 # Google webmaster tools
 google_verify:
@@ -34,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Breizh Data Club
+  copyright: Innozh
   location: Contactez-nous
   social: Sur le web
   credits: Crédits
@@ -42,16 +42,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/breizhdataclub
+    url: http://twitter.com/BreizhDay
   - title: github
     url: https://github.com/breizhdataday
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Association Breizh Data Club
-  - line: French Tech
-  - line: 2 rue de la Mabilais
-  - line: 35000 RENNES
+  - line: INNOZH Technopole
+  - line: 2 rue Jean Rostand BP 7
+  - line: 22440 Ploufragan
 
 # Credits content
 credits: 'Créé avec Jekyll et le thème Freelancer.'
