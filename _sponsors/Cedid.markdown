@@ -1,7 +1,7 @@
 ---
 layout: default
-img: CEGID_Logo_Bleu.png
-alt: Cegid
-href: https://www.cegid.com/fr/
-qui: Cegid
+img: sponsor.png
+alt: Vous comme sponsor
+href: [https://www.cegid.com/fr/](https://breizhdataday.github.io/)
+qui: VOUS
 ---
