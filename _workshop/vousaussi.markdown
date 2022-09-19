@@ -2,7 +2,7 @@
 layout: default
 modal-id: vousaussi
 date: 2019-11-07
-img: Nucleaire.PNG
+img: logo_bdd_blanc_et_rose.png
 alt: Vous Aussi
 project-date: 02 février 2023
 qui: Vous Speaker Tech
