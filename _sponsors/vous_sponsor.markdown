@@ -1,7 +1,7 @@
 ---
 layout: default
-img: sponsor.png
+img: logo_bdd_blanc_et_rose.png
 alt: Vous comme sponsor
-href: [https://www.cegid.com/fr/](https://breizhdataday.github.io/)
+href: https://breizhdataday.github.io
 qui: VOUS
 ---
