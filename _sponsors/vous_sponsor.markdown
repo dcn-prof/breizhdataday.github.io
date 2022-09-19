@@ -1,6 +1,6 @@
 ---
 layout: default
-img: logo_bdd_blanc_et_rose.png
+img: logo BREIZH DATA DAY_twitter.png
 alt: Vous comme sponsor
 href: https://breizhdataday.github.io
 qui: VOUS
