@@ -1,13 +1,13 @@
 # Site settings
 title: Breizh Data Day
-email: contact@colinfay.me
+email: sophie.tardivel@doptim.eu
 url: http://breizhdataday.github.io/
 description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
 keywords: "breizh, data, data science, open data"
-date: "To define"
+date: "2 Févbrier 2023"
 entree: "Entrée gratuite"
-meta_author: LastName FirstName
-baseline: "Un événement du Breizh Data Club"
+meta_author: Sophie TARDIVEL
+baseline: "Un événement de la French Tech Saint-Brieuc Bay"
 
 # Google webmaster tools
 google_verify:
@@ -34,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Breizh Data Club
+  copyright: Innozh
   location: Contactez-nous
   social: Sur le web
   credits: Crédits
