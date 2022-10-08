@@ -104,7 +104,7 @@ header {
     text-align: center;
     color: #fff;
     //background: #{{ site.color.primary }};
-    background-image: url("bdd_fond.jpg");
+    background-image: url("img/bdd_fond.jpg");
 }
 
 header .container {
