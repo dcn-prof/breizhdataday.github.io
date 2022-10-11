@@ -105,6 +105,10 @@ header {
     color: #fff;
     //background: #{{ site.color.primary }};
     background-image: url("img/bdd_fond.jpg");
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header .container {
