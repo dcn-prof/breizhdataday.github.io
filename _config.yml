@@ -4,11 +4,11 @@ email: sophie.tardivel@doptim.eu
 url: http://breizhdataday.github.io/
 description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
 keywords: "breizh, bretagne, saint-brieuc, french tech, data, data science, intelligence artificielle, open data"
-date: "2 Février 2023"
+date: "Mardi 4 Avril 2023"
 
 entree: "Entrée gratuite"
 meta_author: Sophie TARDIVEL
-baseline: "Un événement de la French Tech Saint-Brieuc Bay"
+baseline: "Un événement de la French Tech Saint-Brieuc Bay - INNÔZH"
 
 # Google webmaster tools
 google_verify:
@@ -35,7 +35,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Innozh
+  copyright: INNÔZH
   location: Contactez-nous
   social: Sur le web
   credits: Crédits
@@ -49,9 +49,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: INNOZH Technopole (XXX)
+  - line: INNÔZH Technopole
   - line: 2 rue Jean Rostand BP 7
-  - line: 22440 Ploufragan
+  - line: 22440 Ploufragan - France
 
 # Credits content
 credits: 'Créé avec Jekyll et le thème Freelancer.'
