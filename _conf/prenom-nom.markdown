@@ -1,14 +1,14 @@
 ---
 layout: default
-modal-id: prénomnom
-date: 2022-02-02
+modal-id: prenomnom001
+date: 2022-04-04
 img: vous.jpeg
-alt: prénom-nom
-project-date: 02 février 2023
-qui: Vous
-boite: Votre entité
-position: Vous<br>
+alt: Thierry-Hervé
+project-date: 04 avril 2023
+qui: Therry Hervé
+boite: Free lance
+position: Expert<br>
 category: Conférence
-description: Votre sujet
-description-longue: Votre grand sujet
+description: Comportements humains
+description-longue: --à développer--coming soon--
 ---
