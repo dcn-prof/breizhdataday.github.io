@@ -57,7 +57,7 @@ address:
   - line: "   "
 
 # Credits content
-credits: 'Créé avec Jekyll et le thème Freelancer.'
+credits: 'Créé avec le générateur de site web Jekyll et le thème Freelancer.'
 
 # Build settings
 markdown: kramdown
