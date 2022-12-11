@@ -52,10 +52,13 @@ address:
   - line: INNÔZH Technopole
   - line: 2 rue Jean Rostand BP 7
   - line: 22440 Ploufragan - France
+  - line: "   "
+  - line: Question d organisation ?
   - line: e-mail <code>     contact [at] innozh.fr  </code>
   - line: Tél. <big>    02 96 76 61 61   </big>
   - line: "   "
-  - line: si besoin, contact webmaster = didier [point] certain [at] wanadoo [point] fr
+  - line: Question technique ou éditoriale ?
+  - line: email webmaster = didier [point] certain [at] wanadoo [point] fr
   - line: "   "
 
 # Credits content
