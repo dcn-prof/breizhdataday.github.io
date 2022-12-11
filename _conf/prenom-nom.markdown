@@ -9,6 +9,6 @@ qui: Prénom Nom
 boite: Entreprise-Organisation
 position: Expert<br>
 category: Conférence
-description: Comportements humains
+description: Sujet-à-décrire
 description-longue: --à développer--coming soon--
 ---
