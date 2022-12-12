@@ -7,8 +7,8 @@ alt: Vous Aussi
 project-date: 04 avril 2023
 qui: Vous Aussi
 boite: Votre boîte
-position: Votre job
+position: Votre job  <br>
 category: Workshop
 description: Votre sujet
-description-longue : votre pitch. 
+description-longue : Votre pitch. 
 ---
