@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: vousaussi
-date: 2019-11-07
-img: logo_bdd_blanc_et_rose.png
+date: 2023-04-04
+img: Conf_03.jpg
 alt: Vous Aussi
-project-date: 02 février 2023
-qui: Vous Speaker Tech
-boite: Votre entité
+project-date: 04 avril 2023
+qui: Vous Aussi
+boite: Votre boîte
 position: Votre job
 category: Workshop
 description: Votre sujet
