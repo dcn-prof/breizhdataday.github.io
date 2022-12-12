@@ -2,7 +2,7 @@
 layout: default
 modal-id: vousaussi
 date: 2023-04-04
-img: Conf_04.jpg
+img: Conf_06.jpg
 alt: Vous Aussi
 project-date: 04 avril 2023
 qui: Vous Aussi
