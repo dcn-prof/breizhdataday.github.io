@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: HassanMaissoro
-date: 2022-04-04
-img: BDD2023_Hassan_MAISSORO_Datastorm.png
+date: 2023-04-04
+img: Hassan_MAISSORO.jpg
 alt: Hassan-MAISSORO
 project-date: 04 avril 2023
 qui: Hassan MAISSORO
